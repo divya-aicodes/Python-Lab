@@ -11,6 +11,15 @@ This repository contains Python programming labs organized by module. Each lab i
 | 3 | Mathematical Calculator Using Built-in Functions and the Math Module | [`mathematical_calculator.py`](Module%201%20Lab/lab-03-mathematical-calculator/mathematical_calculator.py) |
 | 4 | Electricity Bill Generator | [`electricity_bill.py`](Module%201%20Lab/lab-04-electricity-bill/electricity_bill.py) |
 
+## [Module 2 Lab](Module%202%20Lab)
+
+| Exercise | Title | Program |
+| --- | --- | --- |
+| 1 | Number Guessing Game | [`number_guessing_game.py`](Module%202%20Lab/lab-01-number-guessing-game/number_guessing_game.py) |
+| 2 | Prime Number and Factorial | [`prime_number.py`](Module%202%20Lab/lab-02-prime-and-factorial/prime_number.py) and [`factorial.py`](Module%202%20Lab/lab-02-prime-and-factorial/factorial.py) |
+| 3 | Fibonacci Series Using Recursion | [`fibonacci_recursive.py`](Module%202%20Lab/lab-03-recursive-fibonacci/fibonacci_recursive.py) |
+| Mini Project | Student Grading Automation | [`student_grading.py`](Module%202%20Lab/mini-project-student-grading/student_grading.py) |
+
 ## Requirements
 
 - Python 3.10 or newer
