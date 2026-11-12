@@ -29,6 +29,15 @@ This repository contains Python programming labs organized by module. Each lab i
 | 3 | Frequency Counter Using Dictionaries | [`frequency_counter.py`](Module%203%20Lab/lab-03-frequency-counter/frequency_counter.py) |
 | Mini Project | Attendance Tracker | [`attendance_tracker.py`](Module%203%20Lab/mini-project-attendance-tracker/attendance_tracker.py) |
 
+## [Module 4 Lab](Module%204%20Lab)
+
+| Exercise | Title | Program |
+| --- | --- | --- |
+| 1 | Log File Reader | [`log_file_reader.py`](Module%204%20Lab/lab-01-log-file-reader/log_file_reader.py) |
+| 2 | Student Data Manager Using Files | [`student_data_manager.py`](Module%204%20Lab/lab-02-student-data-manager/student_data_manager.py) |
+| 3 | CSV-Based Payroll Management System | [`payroll_management.py`](Module%204%20Lab/lab-03-csv-payroll-management/payroll_management.py) |
+| Mini Project | JSON-Based Log File Analyzer | [`json_log_analyzer.py`](Module%204%20Lab/mini-project-json-log-analyzer/json_log_analyzer.py) |
+
 ## Requirements
 
 - Python 3.10 or newer
@@ -39,7 +48,7 @@ This repository contains Python programming labs organized by module. Each lab i
 Open a terminal in the repository and run the required program. For example:
 
 ```bash
-python "Module 3 Lab/lab-01-contact-book/contact_book.py"
+python "Module 4 Lab/lab-01-log-file-reader/log_file_reader.py"
 ```
 
 On Windows, `py` can be used instead of `python` if that is how Python is installed.

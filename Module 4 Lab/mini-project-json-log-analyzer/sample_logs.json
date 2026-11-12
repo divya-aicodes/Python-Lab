@@ -1,0 +1,32 @@
+[
+  {
+    "timestamp": "2026-11-12T09:00:00+05:30",
+    "level": "INFO",
+    "source": "auth",
+    "message": "User session started"
+  },
+  {
+    "timestamp": "2026-11-12T09:03:12+05:30",
+    "level": "WARNING",
+    "source": "database",
+    "message": "Query response time exceeded threshold"
+  },
+  {
+    "timestamp": "2026-11-12T09:05:41+05:30",
+    "level": "ERROR",
+    "source": "payments",
+    "message": "Payment gateway request failed"
+  },
+  {
+    "timestamp": "2026-11-12T09:07:10+05:30",
+    "level": "INFO",
+    "source": "payments",
+    "message": "Payment retry completed"
+  },
+  {
+    "timestamp": "2026-11-12T09:10:00+05:30",
+    "level": "CRITICAL",
+    "source": "database",
+    "message": "Primary database connection lost"
+  }
+]
