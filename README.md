@@ -38,17 +38,27 @@ This repository contains Python programming labs organized by module. Each lab i
 | 3 | CSV-Based Payroll Management System | [`payroll_management.py`](Module%204%20Lab/lab-03-csv-payroll-management/payroll_management.py) |
 | Mini Project | JSON-Based Log File Analyzer | [`json_log_analyzer.py`](Module%204%20Lab/mini-project-json-log-analyzer/json_log_analyzer.py) |
 
+## [Module 5 Lab](Module%205%20Lab)
+
+| Exercise | Title | Program |
+| --- | --- | --- |
+| 1 | Bank Account System Using OOP | [`bank_account.py`](Module%205%20Lab/lab-01-bank-account-oop/bank_account.py) |
+| 2 | Library Management System | [`library_management.py`](Module%205%20Lab/lab-02-library-management/library_management.py) |
+| 3 | Dice Simulator Using the Random Module | [`dice_simulator.py`](Module%205%20Lab/lab-03-dice-simulator/dice_simulator.py) |
+| Mini Project | Retail Sales Dashboard Using CSV and Matplotlib | [`retail_sales_dashboard.py`](Module%205%20Lab/mini-project-retail-sales-dashboard/retail_sales_dashboard.py) |
+
 ## Requirements
 
 - Python 3.10 or newer
-- No third-party packages
+- Modules 1-4 use no third-party packages
+- The Module 5 dashboard requires Matplotlib; install it with `pip install -r "Module 5 Lab/requirements.txt"`
 
 ## Running a lab
 
 Open a terminal in the repository and run the required program. For example:
 
 ```bash
-python "Module 4 Lab/lab-01-log-file-reader/log_file_reader.py"
+python "Module 5 Lab/lab-01-bank-account-oop/bank_account.py"
 ```
 
 On Windows, `py` can be used instead of `python` if that is how Python is installed.
