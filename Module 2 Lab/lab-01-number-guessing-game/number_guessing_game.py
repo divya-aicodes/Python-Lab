@@ -3,8 +3,8 @@
 import random
 
 MIN_NUMBER = 1
-MAX_NUMBER = 100
-MAX_ATTEMPTS = 7
+MAX_NUMBER = 10
+MAX_ATTEMPTS = 5
 
 
 def compare_guess(guess: int, secret_number: int) -> str:
